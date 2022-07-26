@@ -11,6 +11,7 @@
           rel="stylesheet">
 
     <title>فست فوت پک</title>
+    <link rel="shortcut icon" href="favicon.ico">
 
     <!-- Additional CSS Files -->
     <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
