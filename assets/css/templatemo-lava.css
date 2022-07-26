@@ -683,7 +683,7 @@ welcome
   text-align: right;
   position: relative;
   align-self: center;
-  margin-top: 35%;
+  margin-top: 30%;
   transform: perspective(1px) translateY(-30%) !important;
 }
 
