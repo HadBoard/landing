@@ -119,12 +119,12 @@ body {
 }
 
 ::selection {
-  background: #f1556a;
+  background: #c361fa ;
   color: #fff;
 }
 
 ::-moz-selection {
-  background: #f1556a;
+  background: #c361fa ;
   color: #fff;
 }
 
@@ -148,7 +148,7 @@ a.main-button-slider {
   font-size: 14px;
   border-radius: 25px;
   padding: 15px 25px;
-  background-color: #fba70b;
+  background-color: #9b0bc3;
   text-transform: uppercase;
   color: #fff;
   font-weight: 600;
@@ -160,7 +160,7 @@ a.main-button-slider {
 }
 
 a.main-button-slider:hover {
-  background-color: #f1556a;
+  background-color: #c361fa ;
 }
 
 a.main-button {
@@ -179,7 +179,7 @@ a.main-button {
 }
 
 a.main-button:hover {
-  background-color: #f1556a;
+  background-color: #c361fa ;
 }
 
 button.main-button {
@@ -201,7 +201,7 @@ button.main-button {
 }
 
 button.main-button:hover {
-  background-color: #f1556a;
+  background-color: #c361fa ;
 }
 
 
@@ -252,13 +252,13 @@ header
 }
 
 .background-header .main-nav .nav li:hover a {
-  color: #fba70b!important;
+  color: #9b0bc3!important;
 }
 .nav{
   direction: rtl;
 }
 .background-header .nav li a.active {
-  color: #fba70b!important;
+  color: #9b0bc3!important;
 }
 
 .header-area {
@@ -337,7 +337,7 @@ header
 }
 
 .header-area .main-nav .nav li:hover a {
-  color: #fba70b;
+  color: #9b0bc3;
 }
 
 .header-area .main-nav .nav li.submenu {
@@ -410,13 +410,13 @@ header
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
-  background: #fba70b;
+  background: #9b0bc3;
 }
 
 .header-area .main-nav .nav li.submenu ul li a:hover {
         padding-right: 50px;
   background: #fff;
-  color: #fba70b!important;
+  color: #9b0bc3!important;
   padding-left: 25px;
 }
 
@@ -552,7 +552,7 @@ header
 }
 
 .header-area.header-sticky .nav li a.active {
-  color: #fba70b;
+  color: #9b0bc3;
 }
 
 @media (max-width: 1200px) {
@@ -620,7 +620,7 @@ header
   }
   .header-area .main-nav .nav li a:hover {
     background: #eee !important;
-    color: #fba70b!important;
+    color: #9b0bc3!important;
   }
   .header-area .main-nav .nav li.submenu ul {
     position: relative;
@@ -698,7 +698,7 @@ welcome
 
 .welcome-area .header-text h1 em {
   font-style: normal;
-  color: #fba70b;
+  color: #9b0bc3;
 }
 
 .welcome-area .header-text p {
@@ -1086,7 +1086,7 @@ footer .right-content {
 
 .footer-content .right-content h2 em {
   font-style: normal;
-  color: #fba70b;
+  color: #9b0bc3;
 }
 
 .footer-content .right-content p {
@@ -1133,8 +1133,8 @@ footer .social li a {
 }
 
 footer .social li a:hover {
-  background-color: #fba70b;
-  border-color: #fba70b;
+  background-color: #9b0bc3;
+  border-color: #9b0bc3;
   color: #fff;
 }
 
@@ -1184,7 +1184,7 @@ preloader
 */
 #preloader {
   overflow: hidden;
-  background-image: linear-gradient(145deg, #f4813f 0%, #f1556a 100%);
+  background-image: linear-gradient(145deg, #c361fa 0%, #6b03a5 100%);
   left: 0;
   right: 0;
   top: 0;
